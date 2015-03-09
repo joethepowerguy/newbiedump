@@ -1,2 +1,2 @@
 # newbiedump
-place to learn git
+place to learn git. this repository will be deleted
